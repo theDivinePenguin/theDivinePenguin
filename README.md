@@ -6,8 +6,6 @@ and place this content in the README.md file!
 
 # Hi there, I'm Raymond! (aka theDivinePenguin)
 
-> *"having fun :) good at whatever i can be interested in."*
-
 I'm an Undergrad **AIML** student who loves, coding up fun projects, playing video games, singing and playing the piano :)
 
 ---
