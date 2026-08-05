@@ -22,11 +22,6 @@ I jump between tech stacks purely based on interest lol. Here are some of my fav
 
 <br>
 
-### GitHub Stats
-
-![Raymond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theDivinePenguin&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theDivinePenguin&layout=compact&theme=tokyonight&hide_border=true)
-
 ### Let's Connect!
 - **Discord:** `raymond_9326`
 - **Steam:** `raymondjohn9326`
