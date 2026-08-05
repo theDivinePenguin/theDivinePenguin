@@ -17,15 +17,15 @@ I jump between tech stacks purely based on interest lol. Here are some of my fav
 - **[clashML](https://github.com/theDivinePenguin/clashML)**: Data analysis for Clash Royale battles.
 - **[coc-event-bot](https://github.com/theDivinePenguin/coc-event-bot)**: A discord bot to manage Clash of Clans activities.
 - **[urdev](https://github.com/theDivinePenguin/urdev)**: An urban development tracker (kinda thingee).
+- **[Asphalt-bot](https://github.com/GTAVENOM/Asphalt-bot)**: Asphalt Legends Discord bot.
+- **[Discord-Summary-Bot](https://github.com/GTAVENOM/Discord-Summary-Bot)**: Discord bot to summarize conversations.
 
 <br>
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theDivinePenguin&show_icons=true&theme=tokyonight&hide_border=true" alt="Raymond's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theDivinePenguin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+![Raymond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theDivinePenguin&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theDivinePenguin&layout=compact&theme=tokyonight&hide_border=true)
 
 ### Let's Connect!
 - **Discord:** `raymond_9326`
